@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.controller-container {
+  background-color: #475569;
+  min-height: 20vh;
+  padding: 15px;
+  padding-left: 10%;
+}
+.Layout-heading {
+  color: #ffffff;
+  font-family: Roboto;
+  margin: 0px;
+  margin-bottom: 15px;
+  font-size: 40px;
+}
+.input-div {
+  margin-bottom: 10px;
+}
+.checkbox-label {
+  color: #ffffff;
+  font-family: Roboto;
+  margin-left: 7px;
+  cursor: pointer;
+}
+input {
+  cursor: pointer;
+}

@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.footer-container {
+  max-height: 15vh;
+  background-color: #cbd5e1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer-heading {
+  color: #475569;
+  font-family: Roboto;
+  text-align: center;
+  font-size: 35px;
+}
